@@ -58,3 +58,14 @@ model = InceptionI3d(num_classes=1, in_channels=1, tabular_config=[conf[-1]])
 print(model.forward(x, y).shape)
 ```
 
+### Citation
+```
+@inproceedings{grzeszczyk2024tabmixer,
+  title={TabMixer: Noninvasive Estimation of the Mean Pulmonary Artery Pressure via Imaging and Tabular Data Mixing},
+  author={Grzeszczyk, Michal K and Korzeniowski, Przemys{\l}aw and Alabed, Samer and Swift, Andrew J and Trzci{\'n}ski, Tomasz and Sitek, Arkadiusz},
+  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
+  pages={670--680},
+  year={2024},
+  organization={Springer}
+}
+```
