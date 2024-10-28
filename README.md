@@ -1,5 +1,7 @@
 ## TabMixer: Noninvasive Estimation of the Mean Pulmonary Artery Pressure via Imaging and Tabular Data Mixing
 
+###  | [Paper](https://arxiv.org/pdf/2409.07564) |
+
 This is the official code for "TabMixer: Noninvasive Estimation of the Mean Pulmonary Artery Pressure via Imaging and
 Tabular Data Mixing" presented at the 27th International Conference on Medical Image Computing and Computer Assisted
 Intervention (MICCAI) 2024.
